@@ -1,8 +1,7 @@
 # EV Challenge — GoodWe | Sprint 04
 
 **Disciplina:** Prompt and Artificial Intelligence — FIAP × GoodWe Brasil  
-**Curso:** Ciência da Computação — 1º ano — 2026.2  
-**Responsável pelos blocos A, B e C:** Leonardo Basile Takachi — RM 569066
+
 
 ## Objetivo e base da análise
 
